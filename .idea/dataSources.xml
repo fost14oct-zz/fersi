@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="fersiappdev" uuid="efad23ae-f495-464e-9322-8e4a88561b6c">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://ec2-174-129-29-101.compute-1.amazonaws.com:5432/d9m762m2r16c0q</jdbc-url>
+    </data-source>
+  </component>
+</project>
